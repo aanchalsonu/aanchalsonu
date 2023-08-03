@@ -1,7 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)<h1 align="center">Hi 👋, I'm Aanchal Sharma</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-- 🔭 I’m currently working on **File Uploader using django.**
 
 - 🌱 I’m currently learning **Django , react**
 
@@ -9,7 +7,7 @@
 
 - 📫 How to reach me **aanchalsuntwal@gmail.com**
 
-- ⚡ Fun fact **I'm sacred of Doctor**
+- ⚡ Fun fact **I'm scared of Doctor😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
